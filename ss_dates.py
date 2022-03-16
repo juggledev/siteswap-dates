@@ -100,4 +100,4 @@ for day in range(1, 31+1):
             print(f"    {d_str}/{m_str} ({numObjects(ss)} objects)")
 
 # print(f"Set ({len(ss_dates)}):")
-print(ss_dates)
+# print(ss_dates)
