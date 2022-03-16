@@ -23,6 +23,7 @@
 # https://github.com/relspas/siteswap-english-words
 # @relspas
 # Unlicense
+# I haven't verified this function, but it seems to work alright?
 def isValidSiteswap(s):
     d = set()
     n = len(s)
